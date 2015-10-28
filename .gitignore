@@ -1,0 +1,4 @@
+﻿template.txt
+*.zip
+log/*.log.[0-9]
+!
